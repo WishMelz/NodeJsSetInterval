@@ -9,6 +9,6 @@ module.exports = {
             pass: ''
         }
     },
-    forUser: 'i@itsse.cn',    // 接收邮箱
+    forUser: '',    // 接收邮箱地址
     webUrl: ""    // 网站地址
 }
